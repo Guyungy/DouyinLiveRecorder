@@ -159,3 +159,5 @@ cython_debug/
 #.idea/
 
 backup_config/
+/node
+node-v20.18.0-win-x64.zip
